@@ -1,0 +1,7 @@
+# Screenshots
+screenshots/*
+!screenshots/.gitkeep
+
+# Reports (html, junit)
+reports
+!reports/.gitkeep
