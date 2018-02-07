@@ -19,7 +19,7 @@ set -e
 #   $DOCKER_RUNNING - (string) "true" or "false"
 
 params=''
-path='docroot/profiles/contrib/camp'
+path='tests'
 for i in "$@"; do
 	case "$i" in
 		--path=*)
